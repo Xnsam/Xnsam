@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xnsam&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xnsam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Quote
 -- “We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.” – T. S. Eliot
 
 ### 🔝 Top Contributed Repo
