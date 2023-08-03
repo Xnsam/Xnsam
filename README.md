@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xnsam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-- “We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.” – T. S. Eliot
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Xnsam&limit=5&theme=dark&combine_all_yearly_contributions=true)
